@@ -21,7 +21,7 @@
 ---
 
 #### Screenshot
-![]("5.png")
+![](5.png)
 
 ## Time taken to finish this project
 
