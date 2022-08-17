@@ -27,5 +27,5 @@
 
 > `2 hour`
 
-## Project 5 [Live Link](https://law-home-page-two.vercel.app)
+## Project 5 [Live Link](https://crypto-landing-page-sigma.vercel.app)
 
